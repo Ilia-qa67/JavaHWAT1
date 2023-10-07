@@ -3,9 +3,7 @@ Thumbs.db*
 HELP.md
 .gradle
 build/
-*.kts
-*.bat
-gradlew
+
 
 ### STS ###
 .apt_generated
